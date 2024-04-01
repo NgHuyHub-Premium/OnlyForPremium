@@ -1,6 +1,6 @@
 function Premium()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NgHuyZzZ/nghuydeptrai/main/gg.lua"))()
-
+end
 spawn(function()
     while wait() do
     for i,v in pairs(game.Players:GetPlayers()) do
